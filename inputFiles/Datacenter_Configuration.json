@@ -1,0 +1,305 @@
+{
+  "nodes" : [
+    {
+      "name": "host1",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+     {
+      "name": "host2",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+    {
+      "name": "host3",
+       "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+    {
+      "name": "host4",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host5",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host6",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host7",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host8",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host9",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host10",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host11",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host12",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host13",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host14",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host15",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+	{
+	  "name": "host16",
+      "type" : "host",
+      "pes" : 8,
+      "mips" : 1250,
+      "ram" : 32750,
+      "storage" : 8000000000000
+    },
+
+    {
+	  "iops":1000000000,	  
+      "name": "core1",
+      "type" : "core"      
+    },
+   {
+	  "iops":1000000000,	  
+      "name": "core2",
+      "type" : "core"
+    },
+	    {
+	  "iops":1000000000,	  
+      "name": "core3",
+      "type" : "core"
+    },
+	    {
+	  "iops":1000000000,	  
+      "name": "core4",
+      "type" : "core"
+    },
+    {
+      "iops":1000000000,	  
+      "name": "aggregate1",
+      "type" : "aggregate"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "aggregate2",
+      "type" : "aggregate"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "aggregate3",
+      "type" : "aggregate"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "aggregate4",
+      "type" : "aggregate"
+    },
+    {
+      "iops":1000000000,	  
+      "name": "aggregate5",
+      "type" : "aggregate"
+    },
+    {
+      "iops":1000000000,	  
+      "name": "aggregate6",
+      "type" : "aggregate"
+    },
+    {
+      "iops":1000000000,	  
+      "name": "aggregate7",
+      "type" : "aggregate"
+    },
+    {
+      "iops":1000000000,	  
+      "name": "aggregate8",
+      "type" : "aggregate"
+    },
+
+    {
+	  "iops":1000000000,	  
+      "name": "edge1",
+      "type" : "edge"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "edge2",
+      "type" : "edge"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "edge3",
+      "type" : "edge"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "edge4",
+      "type" : "edge"
+    },  
+    {
+	  "iops":1000000000,	  
+      "name": "edge5",
+      "type" : "edge"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "edge6",
+      "type" : "edge"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "edge7",
+      "type" : "edge"
+    },
+    {
+	  "iops":1000000000,	  
+      "name": "edge8",
+      "type" : "edge"
+    }
+
+  ],
+  "links" : [
+    { "source" : "core1" , "destination" : "aggregate1" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core1" , "destination" : "aggregate3" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core1" , "destination" : "aggregate5" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core1" , "destination" : "aggregate7" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "core2" , "destination" : "aggregate1" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core2" , "destination" : "aggregate3" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core2" , "destination" : "aggregate5" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core2" , "destination" : "aggregate7" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "core3" , "destination" : "aggregate2" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core3" , "destination" : "aggregate4" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core3" , "destination" : "aggregate6" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core3" , "destination" : "aggregate8" , "latency" : 1.0 , "bw" : 1000},
+    
+    { "source" : "core4" , "destination" : "aggregate2" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core4" , "destination" : "aggregate4" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core4" , "destination" : "aggregate6" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "core4" , "destination" : "aggregate8" , "latency" : 1.0 , "bw" : 1000},
+	
+    { "source" : "aggregate1" , "destination" : "edge1" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "aggregate1" , "destination" : "edge2" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "aggregate2" , "destination" : "edge1" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "aggregate2" , "destination" : "edge2" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "aggregate3" , "destination" : "edge3" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "aggregate3" , "destination" : "edge4" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "aggregate4" , "destination" : "edge3" , "latency" : 1.0 , "bw" : 1000},    
+    { "source" : "aggregate4" , "destination" : "edge4" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "aggregate5" , "destination" : "edge5" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "aggregate5" , "destination" : "edge6" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "aggregate6" , "destination" : "edge5" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "aggregate6" , "destination" : "edge6" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "aggregate7" , "destination" : "edge7" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "aggregate7" , "destination" : "edge8" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "aggregate8" , "destination" : "edge7" , "latency" : 1.0 , "bw" : 1000},    
+    { "source" : "aggregate8" , "destination" : "edge8" , "latency" : 1.0 , "bw" : 1000},
+	
+
+    { "source" : "edge1" , "destination" : "host1" , "latency" : 1.0 , "bw" : 3000},
+    { "source" : "edge1" , "destination" : "host2" , "latency" : 1.0 , "bw" : 1000},
+    
+    { "source" : "edge2" , "destination" : "host3" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "edge2" , "destination" : "host4" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "edge3" , "destination" : "host5" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "edge3" , "destination" : "host6" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "edge4" , "destination" : "host7" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "edge4" , "destination" : "host8" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "edge5" , "destination" : "host9" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "edge5" , "destination" : "host10" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "edge6" , "destination" : "host11" , "latency" : 1.0  , "bw" : 1000},
+    { "source" : "edge6" , "destination" : "host12" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "edge7" , "destination" : "host13" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "edge7" , "destination" : "host14" , "latency" : 1.0 , "bw" : 1000},
+
+    { "source" : "edge8" , "destination" : "host15" , "latency" : 1.0 , "bw" : 1000},
+    { "source" : "edge8" , "destination" : "host16" , "latency" : 1.0 , "bw" : 1000}
+  ]
+}

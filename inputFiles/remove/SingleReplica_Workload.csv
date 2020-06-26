@@ -1,0 +1,2 @@
+repliaction,jobType,jobId,startTime,CPU_No,mapInput_GB,Map_MI,shuffleData_GB,Reduce__MIPS,reduceDataOutput_GB,numberOfMappers,numberOfReducers,priority,hdfsBlockSize_MB
+1,MapReduce,1,0,4,15,500000,0.75,150000,1,16,3,0,950
